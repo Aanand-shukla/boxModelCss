@@ -1,0 +1,44 @@
+ @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@300&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    background-color: grey;
+    padding: 10px 400px;
+    margin: 10px 180px;
+    color: coral;
+    color: black;
+
+}
+html{
+font-family: 'Playfair Display', serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+section.fist-sec >h4{
+    margin: 7px 0px; 
+}
+/* .second-heading{
+    margin: 10000px 180px; 
+    padding: 150px;
+} */
+.fist-sec{
+    background-color:#ffffff;
+    padding: 15px 20px;
+    margin: 15px 180px;
+    color: black;
+    border: 2px solid grey; 
+  
+}
+.second-sec{
+    background-color: #ffffff;
+    padding: 15px 20px;
+    margin: 15px 180px;
+    color: black; 
+   border: 2px solid grey;
+}
+section.second-sec >h4{
+ margin: 7px 0px; 
+}
+/* 0 0 1 2 */
